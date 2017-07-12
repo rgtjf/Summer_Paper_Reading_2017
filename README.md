@@ -22,3 +22,8 @@ eg: 0-ACL17-Ng-Paper_title.pdf
 
 ### 1-ICML16-Deepmind-Meta-Leanrning with Memory-augmented Neural Networks
   [PDF](http://proceedings.mlr.press/v48/santoro16.pdf)
+
+  
+### 2-Insurance QA
+  [Task](), [QA-LSTM](), [Innter-Attention]()
+  
