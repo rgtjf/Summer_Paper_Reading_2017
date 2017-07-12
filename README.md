@@ -26,4 +26,5 @@ eg: 0-ACL17-Ng-Paper_title.pdf
   
 ### 2-Insurance QA
   [Task](), [QA-LSTM](), [Innter-Attention]()
-  
+
+### 3-Mnemonic Reader for Matchine Comprehension
