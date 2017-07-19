@@ -28,3 +28,7 @@ eg: 0-ACL17-Ng-Paper_title.pdf
   [Task](), [QA-LSTM](), [Innter-Attention]()
 
 ### 3-Mnemonic Reader for Matchine Comprehension
+
+
+### 4-1706-DeepMind-A simple neural network module for relational reasoning
+  [PDF](https://arxiv.org/pdf/1706.01427.pdf), [Pytorch](https://github.com/kimhc6028/relational-networks), [Keras](https://github.com/Alan-Lee123/relation-network)
