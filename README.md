@@ -39,3 +39,25 @@ eg: 0-ACL17-Ng-Paper_title.pdf
   PDF
   
   ![Model Architechture](figs/5a.png)
+
+### 6-ACL17-FDU-Adversarial Multi-Criteria Learning for ChineseWord Segmentation
+
+### 7-EMNLP14-kevin knight-Low Resource
+
+### 8-EMNLP17-MSRA-SynNet
+
+### 9-Summarization
+  - A Deep Reinforced Model for Abstractive Summarization
+  - ACL17-Stanford-Get to the point
+  - COLING'16-AttSum- Joint Learning of Focusing and Summarization with Neural Attention
+  - IJCAI‘16-Agreement-Based Joint Training for Bidirectional Attention-Based Neural Machine Translation
+  - NIPS15-Pointer Networks
+
+### 10-EMNLP17-Socher-A Joint Many-Task Model
+
+### 11-ACL117-Semi-supervised sequence tagging with bidirectional language models
+
+### 12-ACL17-TextFlow
+
+### 13-Multilingual
+  - Neural Relation Extraction with Multi-lingual Attention- 
